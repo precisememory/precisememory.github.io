@@ -1,3 +1,6 @@
 [submodule "fr"]
 	path = fr
 	url = https://github.com/precisememory/flightrisingcolorplus.git
+[submodule "yule"]
+	path = yule
+	url = https://github.com/precisememory/yuletiderequests.git
